@@ -1,6 +1,5 @@
 
-</p>
-<div> heyo, this is me, reaitten. :smile: 
+## heyo, this is me, reaitten. :smile: 
 
 
 ## connect w/ me
