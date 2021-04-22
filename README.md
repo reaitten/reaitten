@@ -23,13 +23,10 @@
 </p>
 <h2> About Me /h2>
 
-- 🔭 I’m currently working on nothing.
+- i do a bunch of expermenting.
 
-- 🌱 I’m currently learning python, cpp 
+- i don't do anything special.
 
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about  
 
 
 
