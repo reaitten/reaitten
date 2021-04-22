@@ -21,7 +21,7 @@
   
 </div>
 
-<h2> about me.
+## about me.
 
 - i do a bunch of expermenting.
 
