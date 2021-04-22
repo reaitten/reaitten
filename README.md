@@ -3,7 +3,8 @@
 <div size='20px'> heyo, this is me, reaitten. :smile: 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=reaitten.reaitten)
-<h2 align='left'> Connect with me</h2>
+
+## Connect with me
 <p align = 'left'>
 <a href = 'https://www.twitter.com/@knotreaitten'> <img width = '33px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/reaitten'> <img width = '33px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
