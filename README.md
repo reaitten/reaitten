@@ -1,5 +1,5 @@
 
-## heyo, this is me, reaitten. :smile: 
+# hey, this is me, reaitten. :smile: 
 
 
 ## connect w/ me
