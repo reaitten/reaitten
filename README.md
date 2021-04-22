@@ -7,7 +7,7 @@
 <a href = 'https://www.twitter.com/@knotreaitten'> <img width = '33px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/reaitten'> <img width = '33px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
   
-<div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=reaitten.reaitten)
 </div>
 
