@@ -28,7 +28,7 @@
 - i don't do anything special.
 
 
-<h2> github stats
+## github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=reaitten&count_private=true&show_icons=true&theme=default" />
 </a>
