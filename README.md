@@ -1,6 +1,6 @@
 
 </p>
-<div size='20px'> heyo, this is me, reaitten. :smile: 
+<div size='33px'> heyo, this is me, reaitten. :smile: 
 
 
 ## connect w/ me
