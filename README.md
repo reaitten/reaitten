@@ -7,6 +7,7 @@
 <p align = 'left'>
 <a href = 'https://www.twitter.com/@knotreaitten'> <img width = '33px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/reaitten'> <img width = '33px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+  
 </p>
 </div>
 
