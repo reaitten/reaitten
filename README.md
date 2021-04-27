@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/@hafitzXD-blue?style=social&logo=Telegram"/></a>
   
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaitten&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaitten&theme=dark" />
 </a>
 
 <!-- BLOG-POST-LIST:START -->
