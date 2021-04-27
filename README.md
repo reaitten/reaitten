@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://t.me/ori001">
-  <img src="https://img.shields.io/badge/@ori001-blue?style=social&logo=Telegram"/></a>
+  <img src="https://img.shields.io/badge/@ori001-blue?style=social&logo=Telegram&theme=dark"/></a>
   
 
 <!-- BLOG-POST-LIST:START -->
