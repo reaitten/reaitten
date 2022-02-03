@@ -1,6 +1,3 @@
-<a href="https://t.me/orsixtyone">
-  <img src="https://img.shields.io/badge/@orsixtyone-blue?style=social&logo=Telegram&theme=dark"/></a> 
-
 <a href="https://gitlab.com/reaitten">
   <img src="https://img.shields.io/badge/@reaitten-white?style=social&logo=gitlab&theme=dark"/></a>
 
