@@ -1,3 +1,5 @@
+_written = "RIT" + "uhn"_
+
 <a href="https://gitlab.com/reaitten">
   <img src="https://img.shields.io/badge/@reaitten-white?style=social&logo=gitlab&theme=dark"/></a>
 
