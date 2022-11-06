@@ -1,4 +1,4 @@
-_written = "RIT" + "uhn"_
+_written = "RIT" + "in"_
 
 <a href="https://gitlab.com/reaitten">
   <img src="https://img.shields.io/badge/@reaitten-white?style=social&logo=gitlab&theme=dark"/></a>
